@@ -1,0 +1,26 @@
+{
+  "name": "logo-maker-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A logo maker application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaillynnn/Logo-Maker-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaillynnn/Logo-Maker-App/issues"
+  },
+  "homepage": "https://github.com/gaillynnn/Logo-Maker-App#readme",
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.2.0",
+    "inquirer": "^8.0.0",
+    "svg.js": "^2.7.1"
+  }
+}
